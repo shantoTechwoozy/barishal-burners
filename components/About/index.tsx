@@ -63,7 +63,7 @@ const About = () => {
                 <strong>Strengths:</strong> Explosive batting and innovative
                 bowling strategies.
                 <br />
-                <strong>Key Players:</strong>
+                <strong>Key Players</strong>
                 <br />
                 <strong>Captain:</strong> Mosaddek Hossain
                 <br />
