@@ -4,8 +4,7 @@ import Brands from "@/components/Brands";
 import About from "@/components/About";
 import Blog from "@/components/Blog";
 export const metadata: Metadata = {
-  title: "TechWoozy",
-  description: "IT & Digital Marketing Solutions",
+  title: "Barishal Burners",
   // other metadata
 };
 
